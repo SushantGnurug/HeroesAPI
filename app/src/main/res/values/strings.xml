@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HeroesAPI</string>
+    <string name="title_activity_save">Save</string>
+</resources>
